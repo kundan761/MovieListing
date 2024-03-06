@@ -9,7 +9,7 @@ This is a simple movie listing app built with the MERN stack.
 
 ## Installation
 
-1. Clone this repository: `git clone [YOUR_REPOSITORY_URL](https://github.com/kundan761/MovieListing.git)`.
+1. Clone this repository: `git clone :-` <a href="https://github.com/kundan761/MovieListing.git">https://github.com/kundan761/MovieListing.git<a/>.
 2. Navigate into the project directory: `cd Server`.
 3. Install the dependencies: `npm install`.
 4. Start the server: `node ren server`.
