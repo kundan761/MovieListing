@@ -1,0 +1,41 @@
+.Main-Container{
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.MovieList{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  text-wrap: wrap;
+  gap: 5px;
+}
+.Render{
+  width: 30%;
+  text-align: left;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+/* .form>input{
+  width:80%;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 5px;
+  color: black;
+}
+.form>label{
+  color: gray;
+  margin-left: 5%;
+
+}
+
+.btn{
+  width: 22%;
+  margin: 5px;
+  padding: 8px;
+  border-radius: 8px;
+} */
